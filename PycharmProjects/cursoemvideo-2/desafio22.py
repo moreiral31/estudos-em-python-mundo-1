@@ -1,6 +1,0 @@
-nome=str(input('Digite seu nome inteiro:'))
-print('Alisando seu nome...')
-print('Seu nome em letras maiusclas é {}'.format(nome.upper()))
-print('Seu nome em letras minusculas é {}'.format(nome.lower()))
-print('Seu nome tem {} letras'.format(len(nome)-nome.count(' ')))
-print('Seu primerio nome tem {} letras'.format(nome.find(' ')))
